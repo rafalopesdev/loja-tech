@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/loja-tech/static/css/main.d7dee175.css",
+    "main.js": "/loja-tech/static/js/main.e9cd7c74.js",
+    "static/media/maquina_escrever.jpg": "/loja-tech/static/media/maquina_escrever.838fe773c8163920492f.jpg",
+    "index.html": "/loja-tech/index.html",
+    "main.d7dee175.css.map": "/loja-tech/static/css/main.d7dee175.css.map",
+    "main.e9cd7c74.js.map": "/loja-tech/static/js/main.e9cd7c74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7dee175.css",
+    "static/js/main.e9cd7c74.js"
+  ]
+}
